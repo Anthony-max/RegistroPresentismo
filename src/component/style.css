@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+    color:white;
+}
+.contenedor{
+    border-bottom: 1px solid black;
+    
+}
+
+.container-main{
+
+    -webkit-box-shadow: 39px 35px 91px 0px rgba(247,89,102,0.56);
+    -moz-box-shadow: 39px 35px 91px 0px rgba(247,89,102,0.56);
+    box-shadow: 39px 35px 91px 0px rgba(247,89,102,0.56);
+    width: 700px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid rgba(65, 3, 8, 0.534);
+    
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+.boton  {
+   margin:20px;
+   
+}
