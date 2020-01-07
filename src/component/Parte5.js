@@ -1,6 +1,6 @@
 import React from 'react';
 import Botones from './Botones'
-import { Button } from '@material-ui/core';
+
 
 const Parte5 = ({titulo,texto,link,nombre_boton,recordatorio,links}) => (
     <div>
